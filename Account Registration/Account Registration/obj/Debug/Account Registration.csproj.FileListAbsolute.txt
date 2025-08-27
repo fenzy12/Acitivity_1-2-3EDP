@@ -1,0 +1,12 @@
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmRegistration.resources
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.pdb
+C:\Users\Ronn Medrano\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.exe.config

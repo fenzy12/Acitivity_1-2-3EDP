@@ -1,0 +1,11 @@
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.FrmCalculator.resources
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\Ronn Medrano\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe.config
